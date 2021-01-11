@@ -43,7 +43,14 @@ body {
     height: 70vh;
 
   }
-
+  .contact-btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color:#db423d;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: white
+  }
   /* Style the content */
   .content {
     background-color: #F7EFEE;
@@ -108,6 +115,11 @@ ul {
   height: 30px;
 }
 
+.links{
+  color: #000000;
+  font-size: 30px;
+  padding: 10px;
+}
 #footerGrid {
     display: block;
     margin-left: auto;
